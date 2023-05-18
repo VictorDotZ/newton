@@ -1,8 +1,8 @@
 # Newton methods
 
 ```bash
-./setup.sh
-./build.sh
+./deployments/setup.sh
+./deployments/build.sh
 ```
 
 Other commands and params you may see in `main.go` files
